@@ -5,5 +5,3 @@ zmiana04
 zmiana08
 zmiana09
 Zmiana10
-zmiana12
-
