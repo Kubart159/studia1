@@ -1,6 +1,3 @@
 zmiana07t
-<<<<<<< HEAD
 zmiana13
-=======
-galaz
->>>>>>> 987684e8b8ba7755f7000a3ac77e79963a4540bd
+zmiana14
